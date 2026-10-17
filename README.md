@@ -1,18 +1,14 @@
 <a href="https://barabosik.github.io"><img src="banner.webp" alt="Nikita Andreiev, portfolio" width="100%"></a>
 
-Software engineer and security researcher in Saarbrücken. I write the tests that tell a right answer from a wrong one: for AI-generated code, for web apps, for chess moves.
-
 **[Portfolio](https://barabosik.github.io)** · [LinkedIn](https://www.linkedin.com/in/nikita-andreiev) · [thezloynikitan@gmail.com](mailto:thezloynikitan@gmail.com)
 
 ### Things I built
 
-| | |
-|---|---|
-| **[Chess Analyzer](https://barabosik.github.io/chess-analyzer/)** | Full Stockfish 18 game review in the browser through WebAssembly. Import from Chess.com or Lichess, get every move classified with accuracy by phase and live engine lines. Nothing leaves your device. [Source](https://github.com/Barabosik/chess-analyzer) |
-| **[TETHER](https://barabosik.github.io/tether-demo/)** | Grapple-swing precision platformer in a single HTML file. Nineteen hand-tuned levels across three worlds, ghost replays and a level editor. [Source](https://github.com/Barabosik/tether-demo) |
-| **[Portfolio](https://barabosik.github.io)** | three.js chess board that plays Morphy's Opera Game as you scroll, with GSAP motion and synthesized sound. [Source](https://github.com/Barabosik/Barabosik.github.io/tree/source) |
-| **[Video compressor](https://github.com/Barabosik/python-video-compressor)** | Python GUI that shrinks any clip to a target file size with FFmpeg. |
-| **[Telegram AI bot](https://github.com/Barabosik/Telegram-AI-Bot)** | A Telegram bot that talks to a language model. |
+- **[Chess Analyzer](https://barabosik.github.io/chess-analyzer/)**. Full Stockfish 18 game review in the browser through WebAssembly. Import from Chess.com or Lichess, get every move classified with accuracy by phase and live engine lines. Nothing leaves your device. [Source](https://github.com/Barabosik/chess-analyzer)
+- **[TETHER](https://barabosik.github.io/tether-demo/)**. Grapple-swing precision platformer in a single HTML file. Nineteen hand-tuned levels across three worlds, ghost replays and a level editor. [Source](https://github.com/Barabosik/tether-demo)
+- **[Portfolio](https://barabosik.github.io)**. three.js chess board that plays Morphy's Opera Game as you scroll, with GSAP motion and synthesized sound. [Source](https://github.com/Barabosik/Barabosik.github.io/tree/source)
+- **[Video compressor](https://github.com/Barabosik/python-video-compressor)**. Python GUI that shrinks any clip to a target file size with FFmpeg.
+- **[Telegram AI bot](https://github.com/Barabosik/Telegram-AI-Bot)**. A Telegram bot that talks to a language model.
 
 ### Work with
 
