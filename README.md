@@ -6,7 +6,7 @@
 
 - **[Chess Analyzer](https://barabosik.github.io/chess-analyzer/)**. Full Stockfish 18 game review in the browser through WebAssembly. Import from Chess.com or Lichess, get every move classified with accuracy by phase and live engine lines. Nothing leaves your device. [Source](https://github.com/Barabosik/chess-analyzer)
 - **[TETHER](https://barabosik.github.io/tether-demo/)**. Grapple-swing precision platformer in a single HTML file. Nineteen hand-tuned levels across three worlds, ghost replays and a level editor. [Source](https://github.com/Barabosik/tether-demo)
-- **[p3n.si](https://p3n.si/)**. Landing page redesign for p3n, open-source writing skills that check whether text was written by AI and help you rewrite it. One typeface, a shorter hero with the tool beside it, copy in plain words. [Before and after](https://barabosik.github.io/#work)
+- **[p3n.si](https://p3n.si/)**. Landing page redesign for p3n, open-source writing skills that check whether text was written by AI and help you rewrite it. One typeface, a shorter hero with the tool beside it, copy in plain words. Free to try, no account needed. [Before and after](https://barabosik.github.io/#work)
 - **[Portfolio](https://barabosik.github.io)**. three.js chess board, pieces modelled and light-baked in Blender, that plays Morphy's Opera Game as you scroll, with GSAP motion and synthesized sound. [Source](https://github.com/Barabosik/Barabosik.github.io/tree/source)
 - **[Video compressor](https://github.com/Barabosik/python-video-compressor)**. Python GUI that shrinks any clip to a target file size with FFmpeg.
 - **[Telegram AI bot](https://github.com/Barabosik/Telegram-AI-Bot)**. A Telegram bot that talks to a language model.
