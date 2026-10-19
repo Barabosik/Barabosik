@@ -1,4 +1,4 @@
-<a href="https://barabosik.github.io"><img src="banner-2.webp" alt="Nikita Andreiev, portfolio" width="100%"></a>
+<a href="https://barabosik.github.io"><img src="banner-3.webp" alt="Nikita Andreiev, portfolio" width="100%"></a>
 
 **[Portfolio](https://barabosik.github.io)** · [LinkedIn](https://www.linkedin.com/in/nikita-andreiev) · [thezloynikitan@gmail.com](mailto:thezloynikitan@gmail.com)
 
