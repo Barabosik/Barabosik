@@ -1,18 +1,15 @@
 <a href="https://barabosik.github.io"><img src="banner-3.webp" alt="Nikita Andreiev, portfolio" width="100%"></a>
 
-**[Portfolio](https://barabosik.github.io)** · [LinkedIn](https://www.linkedin.com/in/nikita-andreiev) · [thezloynikitan@gmail.com](mailto:thezloynikitan@gmail.com)
+Software engineer in Saarbrücken. Backend for five years, now AI code evaluation and security testing.
+
+[Portfolio](https://barabosik.github.io) · [LinkedIn](https://www.linkedin.com/in/nikita-andreiev) · [thezloynikitan@gmail.com](mailto:thezloynikitan@gmail.com)
 
 ### Things I built
 
-- **[Chess Analyzer](https://barabosik.github.io/chess-analyzer/)**. Full Stockfish 18 game review in the browser through WebAssembly. Import from Chess.com or Lichess, get every move classified with accuracy by phase and live engine lines. Nothing leaves your device. [Source](https://github.com/Barabosik/chess-analyzer)
-- **[TETHER](https://barabosik.github.io/tether-demo/)**. Grapple-swing precision platformer in a single HTML file. Nineteen hand-tuned levels across three worlds, ghost replays and a level editor. [Source](https://github.com/Barabosik/tether-demo)
-- **[p3n.si](https://p3n.si/)**. Landing page redesign for p3n, open-source writing skills that check whether text was written by AI and help you rewrite it. One typeface, a shorter hero with the tool beside it, copy in plain words. Free to try, no account needed. [Before and after](https://barabosik.github.io/#work)
-- **[Portfolio](https://barabosik.github.io)**. three.js chess board, pieces modelled and light-baked in Blender, that plays Morphy's Opera Game as you scroll, with GSAP motion and synthesized sound. [Source](https://github.com/Barabosik/Barabosik.github.io/tree/source)
-- **[Video compressor](https://github.com/Barabosik/python-video-compressor)**. Python GUI that shrinks any clip to a target file size with FFmpeg.
-- **[Telegram AI bot](https://github.com/Barabosik/Telegram-AI-Bot)**. A Telegram bot that talks to a language model.
+- [p3n for Chrome and Firefox](https://github.com/Barabosik/p3n-chrome-extension): select text on any page, see if it reads as AI-written, or rewrite it in place. I also redesigned [p3n.si](https://p3n.si/) ([before and after](https://barabosik.github.io/#work)).
+- [Chess Analyzer](https://barabosik.github.io/chess-analyzer/): Stockfish 18 game review that runs in your browser. [Code](https://github.com/Barabosik/chess-analyzer)
+- [TETHER](https://barabosik.github.io/tether-demo/): a grapple-swing platformer in one HTML file. [Code](https://github.com/Barabosik/tether-demo)
+- [Portfolio](https://barabosik.github.io): a three.js chess board that plays the Opera Game as you scroll. [Code](https://github.com/Barabosik/Barabosik.github.io/tree/source)
+- Smaller ones: a [video compressor](https://github.com/Barabosik/python-video-compressor) and a [Telegram AI bot](https://github.com/Barabosik/Telegram-AI-Bot).
 
-### Work with
-
-Java and Spring Boot · Python · TypeScript and JavaScript · SQL and PostgreSQL · WebAssembly and Web Workers · Docker and Linux · JUnit and pytest · REST and GraphQL
-
-Ukrainian, Russian, English, German. Open to remote work in security, evaluation or backend.
+I mostly write Java, Python, TypeScript and SQL, speak Ukrainian, Russian, English and German, and I'm open to remote work.
