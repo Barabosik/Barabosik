@@ -6,7 +6,7 @@ Software engineer in Saarbrücken. Backend for five years, now AI code evaluatio
 
 ### Things I built
 
-- [p3n for Chrome and Firefox](https://github.com/Barabosik/p3n-chrome-extension): select text on any page and see which sentences read as AI-written, and why. I also redesigned [p3n.si](https://p3n.si/) ([before and after](https://nikita-andreiev.com/#work)).
+- [p3n](https://nikita-andreiev.com/p3n/): I redesigned the [p3n.si](https://p3n.si/) site and built its apps for Chrome, Firefox, Word, Excel, Google Docs, VS Code, Obsidian and Sublime Text. All of them: [nikita-andreiev.com/p3n](https://nikita-andreiev.com/p3n/).
 - [Chess Analyzer](https://nikita-andreiev.com/chess-analyzer/): Stockfish 18 game review that runs in your browser. [Code](https://github.com/Barabosik/chess-analyzer)
 - [TETHER](https://nikita-andreiev.com/tether-demo/): a grapple-swing platformer in one HTML file. [Code](https://github.com/Barabosik/tether-demo)
 - [Portfolio](https://nikita-andreiev.com): a three.js chess board that plays the Opera Game as you scroll. [Code](https://github.com/Barabosik/Barabosik.github.io/tree/source)
