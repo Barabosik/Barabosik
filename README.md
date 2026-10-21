@@ -2,7 +2,7 @@
 
 Software engineer in Saarbrücken. Backend for five years, now AI code evaluation and security testing.
 
-[Portfolio](https://nikita-andreiev.com) · [LinkedIn](https://www.linkedin.com/in/nikita-andreiev) · [thezloynikitan@gmail.com](mailto:thezloynikitan@gmail.com)
+[Portfolio](https://nikita-andreiev.com) · [LinkedIn](https://www.linkedin.com/in/nikita-andreiev) · [contact@nikita-andreiev.com](mailto:contact@nikita-andreiev.com)
 
 ### Things I built
 
