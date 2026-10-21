@@ -1,4 +1,4 @@
-<a href="https://nikita-andreiev.com"><img src="banner-3.webp" alt="Nikita Andreiev, portfolio" width="560"></a>
+<a href="https://nikita-andreiev.com"><img src="banner-3.webp" alt="Nikita Andreiev, portfolio" width="49%"></a> <a href="https://nikita-andreiev.com/one-shot-site/"><img src="one-shot-site.webp" alt="one-shot-site: a few questions in, a finished, checked website out" width="49%"></a>
 
 Software engineer in Saarbrücken. Backend for five years, now AI code evaluation and security testing.
 
